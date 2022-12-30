@@ -1,4 +1,4 @@
-# GEMASTIK15-PengalamanPengguna-TimKiddies-BwangyukApp
+# GEMASTIK 15-Pengalaman Pengguna-Tim Kiddies-Bwangyuk App
 
 <h5>GEMASTIK atau Pagelaran Mahasiswa Nasional Bidang Teknologi Informasi dan Komunikasi, merupakan program Pusat Prestasi Nasional, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi. Program ini ditujukan untuk meningkatkan kompetensi mahasiswa Indonesia, sehingga mampu mengambil peran sebagai agen perubahan dalam memajukan TIK dan pemanfaatannya, baik ketika masih dalam masa studi maupun kelak sesudah lulus studi. Pada Kesempatan ini, saya mengikuti perlombaan Gemastik XV yang diselanggarakan pada tahun 2022. Kategori perlombaan yang saya ikuti yaitu Pengalaman Pengguna atau biasa disebut UI/UX Design.</h5>
 
